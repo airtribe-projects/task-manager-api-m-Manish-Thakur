@@ -364,3 +364,7 @@ GET /tasks/priority/low
 - Data is stored in memory and will be reset whenever the server restarts.
 - No database is used in this project.
 - The API is designed to demonstrate Express.js routing, validation, filtering, sorting, and controller-based architecture.
+
+## Submission
+
+Completed GitHub Classroom Task Management API assignment.
